@@ -1,0 +1,6 @@
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@usa.visa.com:443?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V8_usa.visa.com_443
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@myanmar.visa.com:8443?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V9_myanmar.visa.com_8443
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@www.visa.com.tw:2053?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V10_www.visa.com.tw_2053
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@www.visaeurope.ch:2083?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V11_www.visaeurope.ch_2083
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@www.visa.com.br:2087?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V12_www.visa.com.br_2087
+vless://9eb61624-f495-40e0-bc3a-e6983e8da541@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=worker.jcfk123.dpdns.org&fp=randomized&type=ws&host=worker.jcfk123.dpdns.org&path=%2F%3Fed%3D2560#CF_V13_www.visasoutheasteurope.com_2096
