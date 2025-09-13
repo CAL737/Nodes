@@ -1,0 +1,2818 @@
+allow-lan: true
+dns:
+  default-nameserver:
+  - 223.5.5.5
+  - 119.29.29.29
+  enable: true
+  listen: 0.0.0.0:53
+  nameserver:
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
+external-controller: 127.0.0.1:9090
+log-level: info
+mode: rule
+port: 7890
+proxies:
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_1_1'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 781c352c-5b01-4920-9a0e-2a25732f694c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_13_2'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 2ad33a9c-ee61-4df4-96e1-1bf0987d082e
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_14_3'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: acf0cb41-ac1a-448f-98cf-0b58a9f92b05
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_31_4'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4f5540d-fa8b-45ce-8e3c-ab0e23631d94
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_1_5'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: cb3ec36e-a0c2-4798-a340-9cb7eaee739a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_106_6'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3766bbe4-16a2-4987-8833-2dcb20731a5f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_2_7'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 781c352c-5b01-4920-9a0e-2a25732f694c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_2_8'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1cfba626-b38f-4da9-b64b-74592729893e
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_2_9'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3d4beb9c-d081-40f1-a40f-4a50e1a29a24
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_1_10'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3d4beb9c-d081-40f1-a40f-4a50e1a29a24
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_6_11'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: cb3ec36e-a0c2-4798-a340-9cb7eaee739a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_33_12'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 63ed729d-308b-4491-9ee0-6f2c38c2e047
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_1_13'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1b604b11-1dd2-45e1-9805-dc802ecd8abb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_10_14'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: b2e95b0b-3280-4167-8cb8-378710416deb
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_1_15'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4f5540d-fa8b-45ce-8e3c-ab0e23631d94
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_1_16'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 63ed729d-308b-4491-9ee0-6f2c38c2e047
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_2_17'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_104_18'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1cfba626-b38f-4da9-b64b-74592729893e
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_100_1_19'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 63ed729d-308b-4491-9ee0-6f2c38c2e047
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_22_20'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 63ed729d-308b-4491-9ee0-6f2c38c2e047
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_2_21'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1b604b11-1dd2-45e1-9805-dc802ecd8abb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_15_22'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3766bbe4-16a2-4987-8833-2dcb20731a5f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_2_23'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 4657a214-f331-4b98-bbe1-e813ab777a58
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_1_24'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: d5436600-7461-43ed-b7fa-4eeb00f7d8d4
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_111_25'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 72520d9d-695c-457e-b055-f65dc36e0e25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_103_26'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_5_27'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1cfba626-b38f-4da9-b64b-74592729893e
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_1_28'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f0d0c1f0-bd67-4c9d-9827-757dc0043fab
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_1_29'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0772da20-ea49-446d-816d-e42237c54848
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_37_2_30'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_2_31'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: acf0cb41-ac1a-448f-98cf-0b58a9f92b05
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_2_32'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: eed712ff-17d2-4e0b-bf0b-19ff3451b97a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_1_33'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: da8aa1d1-5fd7-4085-85c1-3d5cbfdbfc5c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_12_34'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1b604b11-1dd2-45e1-9805-dc802ecd8abb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_2_35'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f0d0c1f0-bd67-4c9d-9827-757dc0043fab
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_109_36'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 2ad33a9c-ee61-4df4-96e1-1bf0987d082e
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_2_37'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6f565a11-f263-421a-bd3c-3d4efa51d4b0
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_1_38'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: efdbbe04-38e0-46f3-a1c2-8c0c5604c636
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_1_39'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3766bbe4-16a2-4987-8833-2dcb20731a5f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_2_40'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c326126-7e75-457d-a8cd-8120da01eb25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_95_1_41'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 4657a214-f331-4b98-bbe1-e813ab777a58
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_16_42'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: cb3ec36e-a0c2-4798-a340-9cb7eaee739a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_17_43'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0772da20-ea49-446d-816d-e42237c54848
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_26_2_44'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 9c0caffc-04c5-413e-98e8-666052b19da8
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_1_45'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_1_46'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 9c0caffc-04c5-413e-98e8-666052b19da8
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_8_47'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: efdbbe04-38e0-46f3-a1c2-8c0c5604c636
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_23_48'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c06892a-d102-47cc-846d-e1d445dc9d2c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_2_49'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a225a8ff-1505-4dfd-a3b7-59737bb499ee
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_1_50'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4798d14-063c-4b01-9b70-5b5793335b87
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_1_51'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c06892a-d102-47cc-846d-e1d445dc9d2c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_2_52'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f1062c0c-7a36-4250-af5b-b8b47c8a40ca
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_39_2_53'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 72520d9d-695c-457e-b055-f65dc36e0e25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_93_1_54'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6f565a11-f263-421a-bd3c-3d4efa51d4b0
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_1_55'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 781c352c-5b01-4920-9a0e-2a25732f694c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_2_56'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_1_57'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 15510a34-7cec-411a-9256-279241522f81
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_1_58'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c06892a-d102-47cc-846d-e1d445dc9d2c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_2_59'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c326126-7e75-457d-a8cd-8120da01eb25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_99_1_60'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1cfba626-b38f-4da9-b64b-74592729893e
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_90_1_61'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_2_62'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 15510a34-7cec-411a-9256-279241522f81
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_1_63'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 20c21ebd-05ed-4f44-bc4d-8831ac518b7a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_105_64'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5e3fa0c3-59c0-4a9f-a9b5-169aad3a7b7b
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_24_2_65'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 4657a214-f331-4b98-bbe1-e813ab777a58
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_1_66'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: b2e95b0b-3280-4167-8cb8-378710416deb
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_18_2_67'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0772da20-ea49-446d-816d-e42237c54848
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_96_1_68'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 20c21ebd-05ed-4f44-bc4d-8831ac518b7a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_1_69'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: d5436600-7461-43ed-b7fa-4eeb00f7d8d4
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_2_70'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 15510a34-7cec-411a-9256-279241522f81
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_88_1_71'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4f5540d-fa8b-45ce-8e3c-ab0e23631d94
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_2_72'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: d5436600-7461-43ed-b7fa-4eeb00f7d8d4
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_2_73'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 2ad33a9c-ee61-4df4-96e1-1bf0987d082e
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_2_74'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7baac04e-a297-48a0-99e9-2deba9ae64fb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_97_1_75'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 2ad33a9c-ee61-4df4-96e1-1bf0987d082e
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_1_76'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 9c0caffc-04c5-413e-98e8-666052b19da8
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_1_77'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: b2e95b0b-3280-4167-8cb8-378710416deb
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_34_2_78'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a225a8ff-1505-4dfd-a3b7-59737bb499ee
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_87_1_79'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 72520d9d-695c-457e-b055-f65dc36e0e25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_1_80'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 67b05dba-e32b-424a-b5a8-61a2f4097a14
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_2_81'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_2_82'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_1_83'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3d4beb9c-d081-40f1-a40f-4a50e1a29a24
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_11_84'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 9c0caffc-04c5-413e-98e8-666052b19da8
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_21_2_85'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3d4beb9c-d081-40f1-a40f-4a50e1a29a24
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_32_2_86'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: b2e95b0b-3280-4167-8cb8-378710416deb
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_2_87'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4798d14-063c-4b01-9b70-5b5793335b87
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_2_88'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f0d0c1f0-bd67-4c9d-9827-757dc0043fab
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_89_1_89'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5e3fa0c3-59c0-4a9f-a9b5-169aad3a7b7b
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_1_90'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 15510a34-7cec-411a-9256-279241522f81
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_1_91'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_110_92'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f0d0c1f0-bd67-4c9d-9827-757dc0043fab
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_28_2_93'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c06892a-d102-47cc-846d-e1d445dc9d2c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_2_94'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 781c352c-5b01-4920-9a0e-2a25732f694c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_2_95'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 67b05dba-e32b-424a-b5a8-61a2f4097a14
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_2_96'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6f565a11-f263-421a-bd3c-3d4efa51d4b0
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_9_97'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_38_2_98'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f1062c0c-7a36-4250-af5b-b8b47c8a40ca
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_2_99'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: da8aa1d1-5fd7-4085-85c1-3d5cbfdbfc5c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_91_1_100'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a225a8ff-1505-4dfd-a3b7-59737bb499ee
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_7_101'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4798d14-063c-4b01-9b70-5b5793335b87
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_20_102'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5e3fa0c3-59c0-4a9f-a9b5-169aad3a7b7b
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_86_1_103'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f1062c0c-7a36-4250-af5b-b8b47c8a40ca
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_1_104'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: eed712ff-17d2-4e0b-bf0b-19ff3451b97a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_25_105'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: d5436600-7461-43ed-b7fa-4eeb00f7d8d4
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_1_106'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: acf0cb41-ac1a-448f-98cf-0b58a9f92b05
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_94_1_107'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c326126-7e75-457d-a8cd-8120da01eb25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_101_1_108'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 67b05dba-e32b-424a-b5a8-61a2f4097a14
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_98_1_109'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_1_110'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: efdbbe04-38e0-46f3-a1c2-8c0c5604c636
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_1_111'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: da8aa1d1-5fd7-4085-85c1-3d5cbfdbfc5c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_1_112'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_1_113'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_1_114'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6f565a11-f263-421a-bd3c-3d4efa51d4b0
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_102_115'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: eed712ff-17d2-4e0b-bf0b-19ff3451b97a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_2_116'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: eed712ff-17d2-4e0b-bf0b-19ff3451b97a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_1_117'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: f1062c0c-7a36-4250-af5b-b8b47c8a40ca
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_108_118'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7baac04e-a297-48a0-99e9-2deba9ae64fb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_19_2_119'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 20c21ebd-05ed-4f44-bc4d-8831ac518b7a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_1_120'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_107_121'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 4657a214-f331-4b98-bbe1-e813ab777a58
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_40_2_122'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_1_123'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7c326126-7e75-457d-a8cd-8120da01eb25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_1_124'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a225a8ff-1505-4dfd-a3b7-59737bb499ee
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_27_125'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 3766bbe4-16a2-4987-8833-2dcb20731a5f
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_2_126'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 72520d9d-695c-457e-b055-f65dc36e0e25
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_2_127'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7baac04e-a297-48a0-99e9-2deba9ae64fb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_92_1_128'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7baac04e-a297-48a0-99e9-2deba9ae64fb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_1_129'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1b604b11-1dd2-45e1-9805-dc802ecd8abb
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_4_130'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5e3fa0c3-59c0-4a9f-a9b5-169aad3a7b7b
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_1_131'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0772da20-ea49-446d-816d-e42237c54848
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_1_132'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: cb3ec36e-a0c2-4798-a340-9cb7eaee739a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_2_133'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 20c21ebd-05ed-4f44-bc4d-8831ac518b7a
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_2_134'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: da8aa1d1-5fd7-4085-85c1-3d5cbfdbfc5c
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_2_135'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: 67b05dba-e32b-424a-b5a8-61a2f4097a14
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_2_136'
+  network: ws
+  port: 2096
+  server: 72.167.25.253
+  servername: gaosir.unfeeling.sbs
+  tls: true
+  type: vless
+  udp: true
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: '%2FTelegram%40freecodes%2F%3Fed%3D2560'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_1_137'
+  network: ws
+  port: 443
+  server: 104.26.2.186
+  servername: 104.26.2.186
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 104.26.2.186
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_3_138'
+  network: ws
+  port: 443
+  server: 167.68.42.168
+  servername: 167.68.42.168
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 167.68.42.168
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_1_139'
+  network: ws
+  port: 443
+  server: 104.129.167.161
+  servername: 104.129.167.161
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 104.129.167.161
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_1_140'
+  network: ws
+  port: 443
+  server: 104.129.167.161
+  servername: 104.129.167.161
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 104.129.167.161
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_2_141'
+  network: ws
+  port: 443
+  server: 184.174.80.250
+  servername: 184.174.80.250
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 184.174.80.250
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_1_142'
+  network: ws
+  port: 443
+  server: 5.180.52.11
+  servername: 5.180.52.11
+  tls: false
+  type: vless
+  udp: true
+  uuid: 6035325d-399a-5148-9126-29cedfd5966a
+  ws-opts:
+    headers:
+      Host: 5.180.52.11
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_2_143'
+  network: ws
+  port: 80
+  server: bewildered-poem.seotoolsforyou.co.uk
+  servername: bewildered-poem.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0f4865d9-9405-4703-a282-46e326e6d9e7
+  ws-opts:
+    headers:
+      Host: bewildered-poem.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_2_144'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: premium.jts-wf4.site
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4f5540d-fa8b-45ce-8e3c-ab0e23631d94
+  ws-opts:
+    headers:
+      Host: premium.jts-wf4.site
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_1_145'
+  network: ws
+  port: 80
+  server: cloudflare.182682.xyz
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: a4798d14-063c-4b01-9b70-5b5793335b87
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_2_146'
+  network: ws
+  port: 80
+  server: informed-location.seotoolsforyou.co.uk
+  servername: informed-location.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5c929ec5-5b1e-447a-950c-354c5d1ba1de
+  ws-opts:
+    headers:
+      Host: informed-location.seotoolsforyou.co.uk
+    path: '%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_2_147'
+  network: ws
+  port: 80
+  server: grounded-brother.seotoolsforyou.co.uk
+  servername: grounded-brother.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 52adc6ba-b1c7-4541-a594-08fc698be640
+  ws-opts:
+    headers:
+      Host: grounded-brother.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_2_148'
+  network: ws
+  port: 80
+  server: fierce-data.seotoolsforyou.co.uk
+  servername: fierce-data.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: c313c27c-97ff-45ed-ab5c-64641af5debc
+  ws-opts:
+    headers:
+      Host: fierce-data.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_2_149'
+  network: ws
+  port: 80
+  server: jealous-competition.seotoolsforyou.co.uk
+  servername: jealous-competition.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7094df26-af60-41c4-afac-857060d1bab0
+  ws-opts:
+    headers:
+      Host: jealous-competition.seotoolsforyou.co.uk
+    path: '%2F%3Fv2ray_configs_pools'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_2_150'
+  network: ws
+  port: 80
+  server: informed-location.seotoolsforyou.co.uk
+  servername: informed-location.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 5c929ec5-5b1e-447a-950c-354c5d1ba1de
+  ws-opts:
+    headers:
+      Host: informed-location.seotoolsforyou.co.uk
+    path: '%2F%3F%3Fed%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_2_151'
+  network: ws
+  port: 80
+  server: bewildered-poem.seotoolsforyou.co.uk
+  servername: bewildered-poem.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 0f4865d9-9405-4703-a282-46e326e6d9e7
+  ws-opts:
+    headers:
+      Host: bewildered-poem.seotoolsforyou.co.uk
+    path: '%2F%3F--%40FREEV2RNG--Bia-FREEV2rng--Kanal-%40FREEv2RNG--'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_2_152'
+  network: ws
+  port: 80
+  server: jealous-competition.seotoolsforyou.co.uk
+  servername: jealous-competition.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7094df26-af60-41c4-afac-857060d1bab0
+  ws-opts:
+    headers:
+      Host: jealous-competition.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_2_153'
+  network: ws
+  port: 80
+  server: hopeful-appointment.seotoolsforyou.co.uk
+  servername: hopeful-appointment.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 491e4f76-42f0-43a7-a987-25072a68d5e4
+  ws-opts:
+    headers:
+      Host: hopeful-appointment.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_1_154'
+  network: ws
+  port: 80
+  server: s4.cn-db.top
+  servername: myvps.nilphreakz.me
+  tls: false
+  type: vless
+  udp: true
+  uuid: acf0cb41-ac1a-448f-98cf-0b58a9f92b05
+  ws-opts:
+    headers:
+      Host: myvps.nilphreakz.me
+    path: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_2_155'
+  network: ws
+  port: 80
+  server: jealous-competition.seotoolsforyou.co.uk
+  servername: jealous-competition.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7094df26-af60-41c4-afac-857060d1bab0
+  ws-opts:
+    headers:
+      Host: jealous-competition.seotoolsforyou.co.uk
+    path: '%2F%3FserverrrVPN%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B---_%40vpnserverrr_%40vpnserverrr_%40vpnserverrr_%40vpnserverrr_%40vpnserverrr'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_2_156'
+  network: ws
+  port: 80
+  server: jealous-competition.seotoolsforyou.co.uk
+  servername: jealous-competition.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7094df26-af60-41c4-afac-857060d1bab0
+  ws-opts:
+    headers:
+      Host: jealous-competition.seotoolsforyou.co.uk
+    path: '%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_2_157'
+  network: ws
+  port: 80
+  server: jealous-competition.seotoolsforyou.co.uk
+  servername: jealous-competition.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 7094df26-af60-41c4-afac-857060d1bab0
+  ws-opts:
+    headers:
+      Host: jealous-competition.seotoolsforyou.co.uk
+    path: '%2F%3F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_1_158'
+  network: ws
+  port: 443
+  server: 154.83.2.167
+  servername: 154.83.2.167
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 154.83.2.167
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_1_159'
+  network: ws
+  port: 443
+  server: 167.68.42.168
+  servername: 167.68.42.168
+  tls: true
+  type: vless
+  udp: true
+  uuid: 401374e6-df77-41fb-f638-dad8184f175b
+  ws-opts:
+    headers:
+      Host: 167.68.42.168
+    path: /
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_2_160'
+  network: ws
+  port: 80
+  server: sweet-combination.seotoolsforyou.co.uk
+  servername: sweet-combination.seotoolsforyou.co.uk
+  tls: false
+  type: vless
+  udp: true
+  uuid: 05020a61-3c0c-4ead-b256-7851ff905a75
+  ws-opts:
+    headers:
+      Host: sweet-combination.seotoolsforyou.co.uk
+    path: '%2F'
+- cipher: none
+  name: '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_161'
+  network: ws
+  port: 80
+  server: turboo-server.aftabz.com
+  servername: turboo-server.aftabz.com
+  tls: false
+  type: vless
+  udp: true
+  uuid: turboo-server
+  ws-opts:
+    headers:
+      Host: turboo-server.aftabz.com
+    path: '%2F--ping--www.speedtest.net%3Fed%3D2080'
+proxy-groups:
+- name: 🚀 节点选择
+  proxies:
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_1_1'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_13_2'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_14_3'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_31_4'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_1_5'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_106_6'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_2_7'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_2_8'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_2_9'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_1_10'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_6_11'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_33_12'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_1_13'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_10_14'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_1_15'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_1_16'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_2_17'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_104_18'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_100_1_19'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_22_20'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_2_21'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_15_22'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_2_23'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_1_24'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_111_25'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_103_26'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_5_27'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_1_28'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_1_29'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_37_2_30'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_2_31'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_2_32'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_1_33'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_12_34'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_2_35'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_109_36'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_2_37'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_1_38'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_1_39'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_2_40'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_95_1_41'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_16_42'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_17_43'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_26_2_44'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_1_45'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_1_46'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_8_47'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_23_48'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_2_49'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_1_50'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_1_51'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_2_52'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_39_2_53'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_93_1_54'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_1_55'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_2_56'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_1_57'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_1_58'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_2_59'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_99_1_60'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_90_1_61'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_2_62'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_1_63'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_105_64'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_24_2_65'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_1_66'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_18_2_67'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_96_1_68'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_1_69'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_2_70'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_88_1_71'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_2_72'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_2_73'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_2_74'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_97_1_75'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_1_76'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_1_77'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_34_2_78'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_87_1_79'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_1_80'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_2_81'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_2_82'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_1_83'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_11_84'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_21_2_85'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_32_2_86'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_2_87'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_2_88'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_89_1_89'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_1_90'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_1_91'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_110_92'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_28_2_93'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_2_94'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_2_95'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_2_96'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_9_97'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_38_2_98'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_2_99'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_91_1_100'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_7_101'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_20_102'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_86_1_103'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_1_104'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_25_105'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_1_106'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_94_1_107'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_101_1_108'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_98_1_109'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_1_110'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_1_111'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_1_112'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_1_113'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_1_114'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_102_115'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_2_116'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_1_117'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_108_118'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_19_2_119'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_1_120'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_107_121'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_40_2_122'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_1_123'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_1_124'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_27_125'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_2_126'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_2_127'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_92_1_128'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_1_129'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_4_130'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_1_131'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_1_132'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_2_133'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_2_134'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_2_135'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_2_136'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_1_137'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_3_138'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_1_139'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_1_140'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_2_141'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_1_142'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_2_143'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_2_144'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_1_145'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_2_146'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_2_147'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_2_148'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_2_149'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_2_150'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_2_151'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_2_152'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_2_153'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_1_154'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_2_155'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_2_156'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_2_157'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_1_158'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_1_159'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_2_160'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_161'
+  - DIRECT
+  type: select
+- interval: 300
+  name: 🎯 全球加速
+  proxies:
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_1_1'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_13_2'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_14_3'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_31_4'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_1_5'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_106_6'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_2_7'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_2_8'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_2_9'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_1_10'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_6_11'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_33_12'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_1_13'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_10_14'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_1_15'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_1_16'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_2_17'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_104_18'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_100_1_19'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_22_20'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_2_21'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_15_22'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_2_23'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_1_24'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_111_25'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_103_26'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_5_27'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_1_28'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_1_29'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_37_2_30'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_2_31'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_2_32'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_1_33'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_12_34'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_2_35'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_109_36'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_2_37'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_1_38'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_1_39'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_2_40'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_95_1_41'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_16_42'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_17_43'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_26_2_44'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_1_45'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_1_46'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_8_47'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_23_48'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_2_49'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_1_50'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_1_51'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_2_52'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_39_2_53'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_93_1_54'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_1_55'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_2_56'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_1_57'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_1_58'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_2_59'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_99_1_60'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_90_1_61'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_2_62'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_1_63'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_105_64'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_24_2_65'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_1_66'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_18_2_67'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_96_1_68'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_1_69'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_2_70'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_88_1_71'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_2_72'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_2_73'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_2_74'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_97_1_75'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_1_76'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_1_77'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_34_2_78'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_87_1_79'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_1_80'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_2_81'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_2_82'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_1_83'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_11_84'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_21_2_85'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_32_2_86'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_2_87'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_2_88'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_89_1_89'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_1_90'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_1_91'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_110_92'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_28_2_93'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_2_94'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_2_95'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_2_96'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_9_97'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_38_2_98'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_2_99'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_91_1_100'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_7_101'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_20_102'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_86_1_103'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_1_104'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_25_105'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_1_106'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_94_1_107'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_101_1_108'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_98_1_109'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_1_110'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_1_111'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_1_112'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_1_113'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_1_114'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_102_115'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_2_116'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_1_117'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_108_118'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_19_2_119'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_1_120'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_107_121'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_40_2_122'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_1_123'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_1_124'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_27_125'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_2_126'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_2_127'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_92_1_128'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_1_129'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_4_130'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_1_131'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_1_132'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_2_133'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_2_134'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_2_135'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_2_136'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_1_137'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_3_138'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_1_139'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_1_140'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_2_141'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_1_142'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_2_143'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_2_144'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_1_145'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_2_146'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_2_147'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_2_148'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_2_149'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_2_150'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_2_151'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_2_152'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_2_153'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_1_154'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_2_155'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_2_156'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_2_157'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_1_158'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_1_159'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_2_160'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_161'
+  tolerance: 50
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+- name: 🛑 广告拦截
+  proxies:
+  - REJECT
+  - DIRECT
+  type: select
+- name: 🌍 国外媒体
+  proxies:
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_1_1'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_13_2'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_14_3'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_31_4'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_1_5'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_106_6'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_2_7'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_2_8'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_2_9'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_1_10'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_6_11'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_33_12'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_1_13'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_10_14'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_1_15'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_1_16'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_2_17'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_104_18'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_100_1_19'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_22_20'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_2_21'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_15_22'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_44_2_23'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_1_24'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_111_25'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_103_26'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_5_27'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_1_28'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_1_29'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_37_2_30'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_2_31'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_72_2_32'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_1_33'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_12_34'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_2_35'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_109_36'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_2_37'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_1_38'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_1_39'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_2_40'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_95_1_41'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_16_42'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_17_43'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_26_2_44'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_1_45'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_61_1_46'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_8_47'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_23_48'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_2_49'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_1_50'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_62_1_51'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_71_2_52'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_39_2_53'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_93_1_54'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_1_55'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_2_56'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_1_57'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_1_58'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_2_59'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_99_1_60'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_90_1_61'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_81_2_62'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_1_63'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_105_64'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_24_2_65'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_66_1_66'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_18_2_67'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_96_1_68'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_1_69'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_2_70'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_88_1_71'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_2_72'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_68_2_73'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_67_2_74'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_97_1_75'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_64_1_76'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_1_77'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_34_2_78'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_87_1_79'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_1_80'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_2_81'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_2_82'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_1_83'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_11_84'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_21_2_85'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_32_2_86'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_78_2_87'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_2_88'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_89_1_89'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_85_1_90'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_84_1_91'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_110_92'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_28_2_93'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_69_2_94'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_2_95'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_2_96'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_9_97'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_38_2_98'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_79_2_99'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_91_1_100'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_7_101'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_20_102'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_86_1_103'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_63_1_104'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_25_105'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_82_1_106'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_94_1_107'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_101_1_108'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_98_1_109'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_1_110'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_74_1_111'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_1_112'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_1_113'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_43_1_114'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_102_115'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_2_116'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_75_1_117'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_108_118'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_19_2_119'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_1_120'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_107_121'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_40_2_122'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_77_1_123'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_1_124'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_27_125'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_65_2_126'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_70_2_127'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_92_1_128'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_1_129'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_4_130'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_80_1_131'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_83_1_132'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_76_2_133'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_73_2_134'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_42_2_135'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_46_2_136'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_1_137'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_3_138'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_30_1_139'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_1_140'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_2_141'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_41_1_142'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_45_2_143'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_36_2_144'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_47_1_145'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_48_2_146'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_54_2_147'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_51_2_148'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_50_2_149'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_52_2_150'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_49_2_151'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_57_2_152'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_55_2_153'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_60_1_154'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_53_2_155'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_56_2_156'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_58_2_157'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_29_1_158'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_35_1_159'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_59_2_160'
+  - '%F0%9F%87%BA%F0%9F%87%B8%20www.85la.com%20%E7%BE%8E%E5%9B%BD_161'
+  - 🚀 节点选择
+  type: select
+- name: 📺 哔哩哔哩
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  type: select
+- name: 🎮 游戏平台
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  type: select
+- name: 📢 微软服务
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  type: select
+- name: 🧩 Apple服务
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  type: select
+- name: 📦 国内网站
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  type: select
+- name: 🔍 全球网站
+  proxies:
+  - 🎯 全球加速
+  - 🚀 节点选择
+  type: select
+rules:
+- DOMAIN-SUFFIX,google.com,🔍 全球网站
+- DOMAIN-SUFFIX,facebook.com,🌍 国外媒体
+- DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
+- DOMAIN-SUFFIX,bilibili.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,xboxlive.com,🎮 游戏平台
+- DOMAIN-SUFFIX,apple.com,🧩 Apple服务
+- DOMAIN-SUFFIX,icloud.com,🧩 Apple服务
+- DOMAIN-SUFFIX,microsoft.com,📢 微软服务
+- DOMAIN-SUFFIX,zhihu.com,📦 国内网站
+- DOMAIN-SUFFIX,qq.com,📦 国内网站
+- DOMAIN-SUFFIX,wechat.com,📦 国内网站
+- DOMAIN-SUFFIX,cn,📦 国内网站
+- GEOIP,CN,📦 国内网站
+- MATCH,🚀 节点选择
+socks-port: 7891
